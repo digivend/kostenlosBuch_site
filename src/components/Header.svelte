@@ -11,7 +11,7 @@
     <a href="/">
       <img class="logo" src="img/logo.png" alt="digiVend" />
     </a>
-    <a href="https://www.facebook.com/Buchkostenlos/">
+    <a href="https://www.facebook.com/Kostenlos-buchde-639411569839752/">
       <img class="social" src="img/facebook.png" alt="facebook" />
     </a>
 
