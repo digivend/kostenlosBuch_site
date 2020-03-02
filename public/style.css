@@ -1,19 +1,21 @@
 @media (max-width: 361px) {
     .header {
-        height:150%;
+        height:800px;
+        min-height: 800px;
     }
    }
    
 
 @media (min-width: 361px) and (max-width: 420px) {
  .header {
-     height: 130%;
+     min-height: 800px;
  }
 }
 
 @media (max-width: 760px) {
-    .content {
-        margin: 0;
+    .header {
+        height: 110%;
+        min-height: 700px;
     }
 
     .feature {
@@ -35,6 +37,10 @@
 
     .headline {
         font-size: 36px;
+    }
+
+    .underline {
+        font-size: 1px;
     }
 
     .featurebutton {
@@ -112,6 +118,11 @@
 }
 
 @media (min-width: 761px) and (max-width: 1024px){
+
+    .header {
+        height: 120%;
+        min-height: 700px;
+    }
 
     .content {
         margin-left: 5%;
