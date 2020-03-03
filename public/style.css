@@ -1,27 +1,4 @@
-@media (max-width: 361px) {
-    .header {
-        height:800px;
-        min-height: 800px;
-    }
-   }
-   
-
-@media (min-width: 361px) and (max-width: 420px) {
- .header {
-     min-height: 800px;
- }
-}
-
 @media (max-width: 760px) {
-    .header {
-        height: 110%;
-        min-height: 700px;
-    }
-
-    .feature {
-        margin-top: 5%;
-        color: white;
-    }
 
     .featureproduct {
         position: absolute;
