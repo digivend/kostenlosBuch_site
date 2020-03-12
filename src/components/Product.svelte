@@ -9,7 +9,7 @@
     <img class="image" src="{product.img}" alt="{product.name}" />
 
     <div class="props">
-        <div class="name">{product.name}</div>
+        <h1 class="name">{product.name}</h1>
         <div class="description">{product.description}</div>
         <div class="final">
             <div class="price"><span class="old">{product.price}</span> &euro</div>
