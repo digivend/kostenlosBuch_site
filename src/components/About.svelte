@@ -9,7 +9,7 @@
   </p>
   <h3>Wie bekomme ich ein Buch kostenlos?</h3>
   <p>Schaut immer wieder auf unserer Seite vorbei oder abonniert unsern Newsletter um nicht die neusten gratis bzw. kostenlose Bücher Deals zu verpassen. Wir stellen euch regelmäßig kostenlose Bücher vor, für die Ihr nur eine Handlings Pauschale zahlen müsst. Damit ihr diese schnell und einfach bestellen könnt, setzen wir einen (*=Partnerlink) direkt zum Webauftritt des Autors.</p>
-  <p>Viel Spaß beim Geldsparen!</br>
+  <p>Viel Spaß beim Geldsparen!<br/>
   Euer kostenlos Buch Team</p> 
     
 </div>
