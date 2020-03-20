@@ -1,4 +1,4 @@
-<div class="datenschutz content">
+<div class="about content">
   <h1>Unsere Mission</h1>
   <h2>Jeden Tag ein Buch lesen</h2>
   <p>Wir leben heute in einer Welt die sich so schnell wie noch nie weiterentwickelt. Damit du mit dem Wandel Schritt halten kannst, ist Weiterbildung wichtiger denn je geworden. Eine gute Methode ist regelmäßig ein Buch zu lesen, beispielsweise ein Buch pro Monat. Aber geht das nicht ins Geld? Nicht unbedingt.</p>
