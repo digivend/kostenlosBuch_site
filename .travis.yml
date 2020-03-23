@@ -3,11 +3,11 @@
 dist: xenial
 language: node_js
 node_js:
-  - 10.18.1
+  - 12.16.1
 
 # Build the Website
 script:
-  - yarn export
+  - npm run export
 
 deploy:
   - provider: s3
