@@ -1,5 +1,7 @@
 # kostenlosBuch_site
 
+[![Build Status](https://travis-ci.com/digivend/kostenlosBuch_site.svg?branch=master)](https://travis-ci.com/digivend/kostenlosBuch_site)
+
 Create content.json within /static folder to get the site to work.
 
 
