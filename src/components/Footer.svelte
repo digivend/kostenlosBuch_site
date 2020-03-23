@@ -11,8 +11,8 @@
 
      <div class="partnerlink">(*=Partnerlink)</div>
     
-    <a href="?about">About</a>
-    <a href="?datenschutz">Datenschutz</a>
-    <a href="?impressum">Impressum</a>
+    <a href="/about">About</a>
+    <a href="/datenschutz">Datenschutz</a>
+    <a href="/impressum">Impressum</a>
   </div>
 </div>

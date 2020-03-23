@@ -1,7 +1,7 @@
 <script>
   import { onMount } from "svelte";
 
-  export let pid = 0;
+  export let pid;
 
   let product = {};
 
@@ -12,11 +12,7 @@
       product = resp.find(el => el.feature === true);
     } else {
       product = resp.find(el => el.productid === pid);
-      console.log(resp.find(el => {
-        return el.productid === pid;
-      }))
     }
-    
   });
 </script>
 
