@@ -5,12 +5,9 @@ language: node_js
 node_js:
   - 10.18.1
 
-before_script:
-  - npm ci || npm i
-
 # Build the Website
 script:
-  - npm run export
+  - yarn export
 
 deploy:
   - provider: s3
