@@ -4,8 +4,10 @@
 
 	export let segment;
 
-	if (segment.indexOf("&") != -1) {
-		segment = segment.split('&')[0];
+	if (segment) {
+		if (segment.indexOf("&") != -1) {
+			segment = segment.split('&')[0];
+		}
 	}
 </script>
 
