@@ -92,7 +92,7 @@ button:hover {
 }
 
 .headline {
-	font-size: 62px;
+	font-size: 54px;
 	font-weight: bold;
 }
 
@@ -251,4 +251,8 @@ button:hover {
   height: 2em;
   margin-bottom: -0.5em;
   margin-right: 1em;
+}
+
+.by {
+  font-size: 2em;
 }
