@@ -20,8 +20,9 @@
 
     <div class="description">
         <div class="headline">{product.name}</div>
+        <div class="by">von <strong>{product.by}</strong></div>
         <p class="unterline">{product.description}</p>
-        <a href="{product.link}"><button class="featurebutton">*JETZT KOSTENLOS SICHERN</button></a>
+        <a href="{product.link}"><button class="featurebutton"><i class="fas fa-shopping-cart"></i> *JETZT KOSTENLOS SICHERN</button></a>
     </div>
 
     <img class="featureproduct" src="{product.img}" alt="Product" />
