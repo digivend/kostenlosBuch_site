@@ -14,6 +14,12 @@
     <a href="https://www.facebook.com/Kostenlos-buchde-639411569839752/">
       <img class="social" src="img/facebook.png" alt="facebook" />
     </a>
+    <a href="https://twitter.com/DeKostenlos/">
+      <img class="social" src="img/twitter.png" alt="twitter" />
+    </a>
+    <a href="https://www.linkedin.com/company/42379062/">
+      <img class="social" src="img/linkedin.png" alt="linkedin" />
+    </a>
 
     <Feature pid={pid}/>
   </div>
