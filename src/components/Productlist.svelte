@@ -12,7 +12,8 @@
 	onMount(async()=>{
 		const response = await fetch("/content.json")
 		const resp = await response.json();
-		products = resp
+		products = resp;
+		products.reverse();
 	});
 
 	function loadmore() {
