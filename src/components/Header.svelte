@@ -20,7 +20,9 @@
     <a href="https://www.linkedin.com/company/42379062/">
       <img class="social" src="img/linkedin.png" alt="linkedin" />
     </a>
-
+    <a href="t.me/kostenlosbuch">
+      <img class="social" src="img/telegram.png" alt="telegram" />
+    </a>
     <Feature pid={pid}/>
   </div>
 </div>

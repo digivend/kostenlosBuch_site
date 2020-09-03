@@ -19,6 +19,10 @@
 <div class="feature">
 
     <div class="description">
+        <span class="digichoice">
+          <span class="digichoice-label">Kostenlos-Buch &nbsp;<span class="digichoice-secondtext">Choice</span> </span> 
+          <span class="digichoice-triangle"></span>
+        </span>
         <div class="headline">{product.name}</div>
         <div class="by">von <strong>{product.by}</strong></div>
         <p class="unterline">{product.description}</p>

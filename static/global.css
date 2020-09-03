@@ -75,7 +75,8 @@ button:hover {
 
 .social {
 	height: 24px;
-	float: right;
+  float: right;
+  margin: 3px;
 }
 
 .feature {
@@ -255,4 +256,37 @@ button:hover {
 
 .by {
   font-size: 1em;
+}
+
+
+.digichoice {
+  display: inline-flex;
+  color: #ffffff;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.digichoice-label {
+  display: flex;
+  height: 40px;
+  line-height: 22px;
+  background-color: #0F1111;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 8px;
+}
+
+.digichoice-secondtext {
+  color: #0895ca;
+}
+
+.digichoice-triangle {
+  width: 0;
+  height: 0;
+  border-right: 10px solid transparent;
+  border-top: 40px solid;
+  color: #0F1111;
+  float: left!important;
 }
