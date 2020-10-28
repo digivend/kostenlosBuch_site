@@ -9,7 +9,7 @@
 <div class="header">
   <div class="content">
     <a href="/">
-      <img class="logo" src="img/logo.webp alt="Logo von kostenlos-buch.de" />
+      <img class="logo" src="img/logo.webp" alt="Logo von kostenlos-buch.de" />
     </a>
     <a href="https://www.facebook.com/Kostenlos-buchde-639411569839752/">
       <img class="social" src="img/facebook.webp" alt="Logo von Facebook" />
