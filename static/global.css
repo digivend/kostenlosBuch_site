@@ -14,6 +14,11 @@ body {
   flex-wrap: wrap;
 }
 
+#sapper {
+  width: 100%;
+  height: 100%;
+}
+
 .content {
   margin-left: 10%;
   margin-right: 10%;
@@ -51,9 +56,10 @@ button:hover {
 
 
 .header {
+  width: 100%;
 	background-size: cover;
   background-repeat: no-repeat;
-	background-image: -webkit-linear-gradient(top,rgba(255,255,255, 0) 70%, rgba(255,255,255,1) 100%), url('../img/background.png');
+	background-image: -webkit-linear-gradient(top,rgba(255,255,255, 0) 70%, rgba(255,255,255,1) 100%), url('../img/background.webp');
 
   display: table;
   padding: 20px;
@@ -69,7 +75,8 @@ button:hover {
 
 .social {
 	height: 24px;
-	float: right;
+  float: right;
+  margin: 3px;
 }
 
 .feature {
@@ -86,7 +93,7 @@ button:hover {
 }
 
 .headline {
-	font-size: 74px;
+	font-size: 54px;
 	font-weight: bold;
 }
 
@@ -108,16 +115,18 @@ button:hover {
 .product {
     display: flex;
     flex-flow: row;
-    height: 250px;
+    min-height: 250px;
     margin-top: 75px;
     margin-bottom: 50px;
 }
 
 .image {
     width: 250px;
+    height: 250px;
 }
 
 .props {
+    width: 100%;
     margin-left: 50px;
 }
 
@@ -125,11 +134,11 @@ button:hover {
     height: 30px;
     font-size: 26px;
     font-weight: bold;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 .props .description {
-    height: 150px;
+    min-height: 150px;
     margin-top: 20px;
     overflow: hidden;
     width: 100%;
@@ -138,7 +147,6 @@ button:hover {
 .final {
     display: flex;
     flex-flow: row;
-    margin-top: 25px;
 }
 
 .right {
@@ -157,7 +165,7 @@ button:hover {
 
 .divider {
     position: relative;
-    margin-top: 25px;
+    margin-top: 50px;
     height: 1px;
 }
 
@@ -231,4 +239,54 @@ button:hover {
 
 .legal .field {
   margin: 50px;
+}
+
+.abmelden {
+  width: 70%;
+  margin-left: 15%;
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+
+.cart {
+  height: 2em;
+  margin-bottom: -0.5em;
+  margin-right: 1em;
+}
+
+.by {
+  font-size: 1em;
+}
+
+
+.digichoice {
+  display: inline-flex;
+  color: #ffffff;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.digichoice-label {
+  display: flex;
+  height: 40px;
+  line-height: 22px;
+  background-color: #0F1111;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 8px;
+}
+
+.digichoice-secondtext {
+  color: #0895ca;
+}
+
+.digichoice-triangle {
+  width: 0;
+  height: 0;
+  border-right: 10px solid transparent;
+  border-top: 40px solid;
+  color: #0F1111;
+  float: left!important;
 }

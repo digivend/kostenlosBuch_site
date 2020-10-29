@@ -1,7 +1,7 @@
 <script>
   import { onMount } from "svelte";
 
-  export let pid = 0;
+  export let pid;
 
   let product = {};
 
@@ -12,20 +12,21 @@
       product = resp.find(el => el.feature === true);
     } else {
       product = resp.find(el => el.productid === pid);
-      console.log(resp.find(el => {
-        return el.productid === pid;
-      }))
     }
-    
   });
 </script>
 
 <div class="feature">
 
     <div class="description">
+        <span class="digichoice">
+          <span class="digichoice-label">Kostenlos-Buch &nbsp;<span class="digichoice-secondtext">Choice</span> </span> 
+          <span class="digichoice-triangle"></span>
+        </span>
         <div class="headline">{product.name}</div>
+        <div class="by">von <strong>{product.by}</strong></div>
         <p class="unterline">{product.description}</p>
-        <a href="{product.link}"><button class="featurebutton">*JETZT KOSTENLOS SICHERN</button></a>
+        <a href="{product.link}"><button class="featurebutton"><i class="fas fa-shopping-cart"></i> *JETZT KOSTENLOS SICHERN</button></a>
     </div>
 
     <img class="featureproduct" src="{product.img}" alt="Product" />
