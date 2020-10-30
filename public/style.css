@@ -1,0 +1,160 @@
+@media (max-width: 361px) {
+    .header {
+        height:150%;
+    }
+   }
+   
+
+@media (min-width: 361px) and (max-width: 420px) {
+ .header {
+     height: 130%;
+ }
+}
+
+@media (max-width: 760px) {
+    .content {
+        margin: 0;
+    }
+
+    .feature {
+        margin-top: 5%;
+        color: white;
+    }
+
+    .featureproduct {
+        position: absolute;
+        width: 60vw;
+        height: 60vw;
+        margin-left: calc(20% - 10px);
+    }
+
+    .description {
+        width: 100%;
+        margin-top: calc(60vw + 20px);
+    }
+
+    .headline {
+        font-size: 36px;
+    }
+
+    .featurebutton {
+        width: 60%;
+        margin-left: 20%
+    }
+
+    .productlist {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .product {
+        display: block;
+        height: auto;
+        margin-top: 75px;
+        margin-bottom: 50px;
+    }
+
+    .image {
+        width: 60%;
+        margin-left: 20%;
+    }
+
+    .props {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .props .description {
+        height: auto;
+        margin-top: 20px;
+    }
+
+    .final {
+        display: block;
+    }
+
+    .price {
+        margin-top: 20px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .props button {
+        width: 60%;
+        margin-left: calc(20% - 10px);
+        margin-top: 20px;
+    }
+
+    .footer {
+        height: 90px;
+    }
+
+    .copyright {
+        width: 100%;
+        text-align: center;
+        float: none;
+    }
+
+    .footer a {
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer .partnerlink {
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer a:hover {
+        cursor: pointer;
+        font-weight: bold;
+    }
+}
+
+@media (min-width: 761px) and (max-width: 1024px){
+
+    .content {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    .header {
+        height: 70vh;
+    }
+
+    .description {
+        width: 50%;
+        margin-top: 10%;
+    }
+
+    .headline {
+        font-size: 36px;
+    }
+
+    .featureproduct {
+        width: 50%;
+        height: 50%;
+        margin-left: 0;
+    }
+
+    .props .description {
+        width: 100%;
+    }
+
+    .impressum {
+        margin-top: 50px;
+    }
+}
+
+@media (min-width: 1025px) and (max-width: 1480px){
+    .featureproduct {
+        width: 50%;
+        height: 50%;
+        margin-left: 10%;
+    }
+
+    .description {
+        width: 50%;
+        margin-top: 0;
+    }
+}

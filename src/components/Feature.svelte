@@ -23,7 +23,9 @@
           <span class="digichoice-label">Kostenlos-Buch &nbsp;<span class="digichoice-secondtext">Choice</span> </span> 
           <span class="digichoice-triangle"></span>
         </span>
-        <div class="headline">{product.name}</div>
+        <!-- 
+        <div class="headline">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vehicula, augue eget sodales hendrerit, odio est finibus metus, a pellentesque ipsum enim sed nisi.</div>
+        -->
         <div class="by">von <strong>{product.by}</strong></div>
         <p class="unterline">{product.description}</p>
         <a href="{product.link}"><button class="featurebutton"><i class="fas fa-shopping-cart"></i> *JETZT KOSTENLOS SICHERN</button></a>

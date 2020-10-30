@@ -1,0 +1,32 @@
+[
+    {
+        "productid": 1,
+        "name": "Der Weg zur finanziellen Freiheit",
+        "by":"Bodo Schäfer",
+        "img": "img/buch/der-weg-zur-finanziellen-freiheit.webp",
+        "description": "In dem Spiegel Besteller von Bodo Schäfer bekommst du eine Schritt für Schritt Anleitung wie du in 7 Jahren zur deiner ersten Millionen kommst. Mit seinen Methoden lernst du wie du dein Einkommen sofort erhöhen kannst, deine Schulden schnell loswirst und von deinen Zinsen leben kannst. Das Buch gibt dir das Handwerkzeug um ein glückliches und erfülltes Leben zu führen und seine Träume zu leben. Auf jeden Fall wird es dein Leben nachhaltig verändern.",
+        "price": "9,99",
+        "link": "https://bit.ly/2KPcrP7",
+        "feature": false
+    },
+    {
+        "productid": 18,
+        "name": "Denke Handeln Wohlstand",
+        "by":"Jürgen Höller",
+        "img": "img/buch/denken-handeln-wohlstand.webp",
+        "description": "Möchtest Du gerne erfahren, mit welchen einfachen Strategien Du Wohlstand und finanzielle Freiheit erreichen kannst? Suchst Du nach Wegen, um Dein Denken und Handeln auf Wohlstand zu 'programmieren'?  Dann ist diese Buch genau das richtige für dich. In diesem Buch zeigt der Autor die besten Strategien, Übungen und Maßnahmen, die seinen eigenen Erfolg ermöglicht haben. Diese Erkenntnisse können auch Dir dabei helfen, innere Klarheit zu entwickeln und dabei erfolgreich und wohlhabend zu werden.",
+        "price": "29,90",
+        "link": "https://bit.ly/34YkajT",
+        "feature": false
+    },
+    {
+        "productid": 23,
+        "name": "Hungerstoffwechsel",
+        "by":"Jasper Caven",
+        "img": "img/buch/hunger-stoffwechsel.webp",
+        "description": "Der bekannte Ernährungsberater Jasper Caven beschreibt in seinem Buch wie du Raus aus der Abnehmfalle kommst und deinen Körper in eine Kalorien-Verbrennungsmaschine verwandelst.Du lernst wie du deinen Stoffwechsel in die Höhe treibst, deinem Körper etwas Gutes tun kannst. Du erfährst wie es sich anfühlt ohne Heißhunger und Verzicht abzunehmen. Außerdem warnt er vor Abnehm-Fehlern die du unbedingt vermeiden solltest.",
+        "price": "29,00",
+        "link": "https://bit.ly/2FyuMuU",
+        "feature": false
+    }
+]

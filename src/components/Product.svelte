@@ -6,11 +6,12 @@
 
 <div class="product content">
 
-    <img class="image" src="{product.img}" alt="{product.name}" />
+    <img class="image" src="{product.img}" alt="{product.alt}" />
 
     <div class="props">
         <h1 class="name">{product.name}</h1>
         <div class="by">von <strong>{product.by}</strong></div>
+        <div class="by">Kategorie <strong>{product.category}</strong></div>
         <div class="description">{product.description}</div>
         <div class="final">
             <div class="price"><span class="old">{product.price}</span> &euro</div>
