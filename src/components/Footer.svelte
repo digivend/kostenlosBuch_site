@@ -14,5 +14,6 @@
     <a href="/about">About</a>
     <a href="/datenschutz">Datenschutz</a>
     <a href="/impressum">Impressum</a>
+    <a href="/partner">Partner Seiten</a>
   </div>
 </div>
