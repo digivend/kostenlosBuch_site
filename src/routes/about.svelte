@@ -1,5 +1,42 @@
 <div class="about content">
   <!-- <h1>Unsere Mission</h1> -->
+  <h2>Was bedeutet ein selbstbestimmtes Leben führen?</h2>
+  <p>Heutzutage wird uns durch die Medien oder soziale Umgebung vorgegeben wie wir unser Leben gestalten sollten. Das führt dazu, dass wir oft fremdbestimmt sind und ein Leben führen, dass andere für uns angedacht haben. Beispielsweise werden die folgenden Lebensanforderungen an uns herangetragen:</p>
+  <ul>
+    <li>Lerne immer fleißig und sei gut in der Schule</li>
+    <li>Mache eine Ausbildung</li>
+    <li>Arbeite hart in deinen Job</li>
+    <li>Heirate deine große Liebe</li>
+    <li>Baue ein Haus</li>
+    <li>Bekomme zwei Kinder</li>
+    <li>Pflanze ein Baum</li>
+    <li>Kaufe dir Statussymbole, um der Welt zu zeigen was du in deinem Leben erreicht hast</li>
+  </ul>
+  <p>Aber ist es wirklich das Leben, welches Du führen willst?</p>
+  <p>Ein selbstbestimmtes Leben zu führen heißt zu Leben wie Du es dir vorstellst und wie Du es für richtig befindest. Du bist die einzige Person, die bestimmen kann wie Dein selbstbestimmtes Leben aussehen soll. Am Ende des Tages bist Du als Unternehmer deines Lebens voll verantwortlich für deine Lebensgestaltung. Niemand anders. </p> 
+  <h3>Wie kann ich herausfinden wie ich ein selbstbestimmtes Leben führen kann?</h3>
+    <p>Um ein selbstbestimmtes Leben zu führen definiert jeder Autor seine eigene Herangehensweise. In dem Kapitel <a href=“https://kostenlos-buch.de/about#pe>Persönlichkeitsentwicklung</a> haben wir ein abstrahiertes Vorgehen beschrieben, dass den meisten Büchern zu Grunde liegt. </p> 
+    <p> Generell sind Bücher ein gutes Hilfsmittel die dich gut auf Deiner persönliche Entwicklungsreise unterstützen können. </p> 
+  <p>
+    <a href="https://kostenlos-buch.de/"><button class="featurebutton"><i class="fas fa-book"></i> Hier findest du kostenlose Bücher, die Dir Helfen ein selbstbestimmten Leben zu führen </button></a>
+  </p>
+  <h2>Was ist Persönlichkeitsentwicklung?</h2>
+  <p>Der Begriff Persönlichkeitsentwicklung bedeutet sich als Person oder Individuum (weiter) zu entwickeln. Dies umfasst persönliche Eigenschaften, Gewohnheiten, Verhaltensmustern oder Fähigkeiten zu verändern. Die Entwicklung deiner Persönlichkeit wird von angeboren Faktoren, Erziehung oder äußeren Umwelteinflüssen geprägt. Jedoch hast du es in der Hand, die Weiterentwicklung deiner Persönlichkeit zu lenken. Dazu stellen wir Dir regelmäßig <a href=“https://kostenlos-buch.de/“>kostenlose Bücher</a> vor, die Dir helfen zur Besten Version deiner selbst zu werden. <p> 
+ 
+  <h2 id="pe">Wie funktioniert Persönlichkeitsentwicklung?</h2>
+  <p>Verallgemeinert besteht der Prozess der Persönlichkeitsentwicklung aus den folgenden 3 Schritten:
+<ol>
+<b><li>Erkenne dich selbst</li></b>
+<p>
+Am Anfang steht die Selbstreflexion. In diesem Schritt geht es darum sich bewusst zu werden wer du bist und was dich ausmacht, mit allen Deinen Stärken und Schwächen. An dieser Stelle geht es nicht um eine Bewertung deiner selbst, sondern einen Abgleich zwischen Fremdbild und Selbstbild herzustellen. 
+</p>
+<b><li>Akzeptiere dich selbst</li></b>
+<p>
+Wenn du deiner selbst bewusst bist, akzeptiere die aktuelle Situation. Lerne dich anzunehmen wie du bist und selbst zu lieben. Ohne Selbstliebe wirst du Dir im Laufe der Entwicklung deiner Persönlichkeit unbewusst selbst im Weg stehen und Abwehrmechanismen aktivieren, um dich zu schützen. Übernehme die Verantwortung für dein Leben, gib niemand anders die Schuld daran. Denn dein aktuelles Leben spiegelt die Summe deiner Entscheidungen in der Vergangenheit wider.
+</p>
+<b><li>Verändere dich selbst</li></b>	
+<p>Erst, jetzt beginnst du mit der Veränderung deiner Persönlichkeit von Eigenschaften, Gewohnheiten, Verhaltensmustern bis hin zu Fähigkeiten. Starte mit der Definition und Visualisierung von deinen persönlichen Zielen. Komm ins Handeln. Erstelle ein Plan für die Zielerreichung. Kontrolliere diesen regelmäßig und passe ihn gegeben falls an. Bitte denke daran, Persönlichkeitsentwicklung ist ein Marathon, kein Sprint. Es kann Wochen bis Monate dauern, bis eine dauerhafte Veränderung spürbar ist. Sei geduldig mit dir selbst und lerne mit Rückschlägen umzugehen. Denn es braucht viel Ausdauer und Mut seine Persönlichkeit zu ändern.</p>
+</ol>
   <h2>Warum jeden Tag ein Buch lesen?</h2>
   <p>Wir leben heute in einer Welt die sich so schnell wie noch nie weiterentwickelt. Damit du mit dem Wandel Schritt halten kannst, ist Weiterbildung wichtiger denn je geworden. Eine gute Methode ist regelmäßig ein Buch zu lesen, beispielsweise ein Buch pro Monat. Aber geht das nicht ins Geld? Nicht unbedingt.</p>
   <h2>Warum stellt ihr regelmäßig kostenlose Bücher zur Persönlichkeitsentwicklung und selbstbestimmten Leben vor?</h2>
@@ -23,7 +60,7 @@
   <br/>  
   <br/> 
   <br/>  
-  <a href="https://kostenlos-buch.de/"><button class="featurebutton"><i class="fas fa-book"></i> Hier findest du hilfreiche Bücher zum selbstbestimmten Lernen & Persönlichkeitsentwicklung </button></a>
+  <a href="https://kostenlos-buch.de/"><button class="featurebutton"><i class="fas fa-book"></i> Hier findest du kostenlose Bücher, die Dir Helfen ein selbstbestimmten Leben zu führen & deine Persönlichkeit zu entwickeln </button></a>
   </p>
   <br/> 
   <br/>
