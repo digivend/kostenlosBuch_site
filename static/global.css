@@ -196,6 +196,7 @@ button:hover {
 
 
 .footer {
+  color: #000057;
   height: 50px;
   width: 100%;
   background-color: #00aeef;
@@ -205,12 +206,10 @@ button:hover {
 
 .copyright {
   font-size: 18px;
-  color: white;
   float: left;
 }
 
 .footer .partnerlink {
-  color: white;
   float: left;
   font-size: 18px;
   padding-left: 10%;
@@ -218,7 +217,7 @@ button:hover {
 
 .footer a {
   display: block;
-  color: white;
+  color: #000057;
   text-align: center;
   text-decoration: none;
   line-height: 1.5;
